@@ -31,6 +31,14 @@
       "dest": "/logo512.png"
     },
     {
+      "src": "/logo_FragNeon.png",
+      "dest": "/logo_FragNeon.png"
+    },
+    {
+      "src": "/Fpoint.png",
+      "dest": "/Fpoint.png"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
