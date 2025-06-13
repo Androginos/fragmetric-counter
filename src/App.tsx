@@ -17,7 +17,7 @@ const Container = styled.div`
 `;
 
 const LogoImage = styled.img`
-  max-width: 350px; /* Logoyu biraz büyüt */
+  max-width: 700px; /* Logoyu daha büyük yap */
   margin-bottom: 3rem; /* Logodan sonraki boşluğu artır */
   filter: drop-shadow(0 0 15px rgba(0, 255, 127, 0.7)); /* Neon yeşili gölge */
 `;
