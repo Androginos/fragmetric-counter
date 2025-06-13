@@ -118,7 +118,7 @@ function App() {
 
   return (
     <Container>
-      <LogoImage src="/Screenshot 2025-06-13 at 10.47.32.png" alt="Fragmetric Logo" />
+      <LogoImage src="/logo_FragNeon.png" alt="Fragmetric Logo" />
       <Title>You know what's coming in</Title>
       <CountdownContainer>
         <TimeUnit>
